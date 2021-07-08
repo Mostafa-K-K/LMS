@@ -1,0 +1,1 @@
+{"ast":null,"code":"setNameSubmit(\"Update Attendance\");","map":{"version":3,"sources":["/opt/lampp/htdocs/Codi/LMS/lms_native/Take_Attendance.js"],"names":["setNameSubmit"],"mappings":"AAAAA,aAAa,CAAC,mBAAD,CAAb","sourcesContent":["setNameSubmit(\"Update Attendance\");"]},"metadata":{},"sourceType":"script"}
