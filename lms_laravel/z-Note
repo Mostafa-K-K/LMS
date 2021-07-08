@@ -1,0 +1,25 @@
+composer create-project laravel/laravel="verion of php if you want" name-of-new-project
+///////////Create a new app laravel
+
+php artisan inspire
+///////give a quote from lhayet
+
+php artisan serve
+///////running the server
+
+php artisan
+//////////all command
+
+php artisan make:migration name-of-migration
+/////////Create migration .....name-of-migration in ./databse/migrations
+
+php artisan migrate 
+//////////run all migrations
+
+php artisan make:model name-of-model
+//////////////create model name-of-model in  ./app/Models
+
+php artisan make:controller name-of-controller
+////////////create conttroller name-of-controller in ./app/Http/Controllers
+
+php artisan route:list
